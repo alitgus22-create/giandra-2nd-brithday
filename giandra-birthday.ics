@@ -1,0 +1,15 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Giandra Birthday//ID
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:giandra-2nd-birthday-20260831@example.local
+DTSTAMP:20260816T121500Z
+DTSTART:20260831T103000Z
+DURATION:PT2H
+SUMMARY:Giandra Rai Shaka Yudhistira - 2nd Birthday
+DESCRIPTION:Birthday party Giandra Rai Shaka Yudhistira.
+LOCATION:Jl. Kendalisodo No.45, Krajan, Jetis, Bandungan, Kabupaten Semarang, Jawa Tengah 50614
+URL:https://maps.app.goo.gl/hP87SyEicw9ZSUYn6
+END:VEVENT
+END:VCALENDAR
